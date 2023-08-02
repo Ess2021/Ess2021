@@ -1,7 +1,10 @@
-### Hi there 👋
+<div align='center' >
+<h2>Hi there 👋</h1>
 
-ただの大学生
+ただの大学生\
+Java / C# / C++ / dotnet / Qt
 
+</div>
 <!--
 **Ess2021/Ess2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
